@@ -191,10 +191,11 @@ table, th, td {
 }
 .food-buttons button {
   font-size: 25px;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 2px;
+  margin-bottom: 2px;
   padding-top: 0px;
   padding-bottom: 0px;
+  width: 100px;
 }
 .food-button-header {
   color: white;
