@@ -205,10 +205,10 @@ table, th, td {
 .food-buttons a {
   text-decoration: none;
 }
-***************/
 .food-buttons a:link, a:visited {
   color: rgb(15, 31, 210);
 }
+***************/
 .food-buttons a:hover {
   color: red;
 }
