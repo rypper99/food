@@ -185,28 +185,28 @@ table, th, td {
   display: block;
 }
 
-.food-button {
+.food-buttons {
   border: 1px solid black;
   margin-top: 3px;
 }
-.food-button button {
+.food-buttons button {
   font-size: 25px;
   margin-top: 0px;
   margin-bottom: 0px;
   padding-top: 0px;
   padding-bottom: 0px;
 }
-.button-header {
+.food-button-header {
   color: white;
   background-color: black;
 }
-.food-button a {
+.food-buttons a {
   text-decoration: none;
 }
-.food-button a:link, a:visited {
+.food-buttons a:link, a:visited {
   color: black;
 }
-.food-button a:hover {
+.food-buttons a:hover {
   color: red;
 }
 
