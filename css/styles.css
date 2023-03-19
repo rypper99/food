@@ -70,7 +70,7 @@ table, th, td {
   margin-top: 15px; /* Add a top margin to avoid content overlay */
 }
 
-.collapsible-item, .section-header {
+.collapsible-item {
   margin-top: 5px;
   margin-bottom: 0px;
   color:black;
