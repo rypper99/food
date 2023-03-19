@@ -75,7 +75,7 @@ table, th, td {
   margin-bottom: 0px;
   color:black;
   background-color: rgb(210, 230, 215);
-  border: 1px solid black;
+  /*border: 1px solid black;*/
   font-size: 22px;
   width: 100%;
   text-align: left;
@@ -128,7 +128,6 @@ table, th, td {
   float: left;
   overflow: hidden;
 }
-
 
 .navbar-dropdown .navbar-dropbtn {  /* Dropdown button */
   font-size: inherit;
