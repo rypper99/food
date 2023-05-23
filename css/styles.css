@@ -65,9 +65,11 @@ table, th, td {
 .page-title {
   color:white;
   background-color: blue;
+  width: 100%;
 }
 .main {
   margin-top: 15px; /* Add a top margin to avoid content overlay */
+  width: 100%;
 }
 
 .collapsible-item {
