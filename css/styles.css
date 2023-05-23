@@ -61,6 +61,9 @@ table, th, td {
   position: sticky; 
   background-color: grey;
   top: 0px;
+  width: 100%;
+  font-size: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
 }
 .page-title {
   color:white;
