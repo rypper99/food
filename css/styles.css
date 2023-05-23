@@ -8,8 +8,8 @@ body {
   padding: 0 20px 20px 20px;
   border: 20px solid black;
   width: 100%;
-  font-size: inherit;
-  font-family: inherit; /* Important for vertical align on mobile phones */  
+  /* font-size: inherit; */
+  /* font-family: inherit; */  
   /* position: fixed; */
 }
 .page-title {
