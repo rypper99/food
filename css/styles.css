@@ -10,6 +10,7 @@ body {
   width: 100%;
   font-size: inherit;
   font-family: inherit; /* Important for vertical align on mobile phones */  
+  position: fixed;
 }
 .page-title {
   background-color: rgb(187, 187, 247);
