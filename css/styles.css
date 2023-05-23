@@ -70,6 +70,8 @@ table, th, td {
 .main {
   margin-top: 15px; /* Add a top margin to avoid content overlay */
   width: 100%;
+  font-size: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
 }
 
 .collapsible-item {
