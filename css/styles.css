@@ -6,7 +6,7 @@ html {
 body {
   margin: 0 auto;
   padding: 0 20px 20px 20px;
-  border: 20px solid black;
+  border: 1px solid black;
   width: 100%;
   /* font-size: inherit; */
   /* font-family: inherit; */  
@@ -20,11 +20,11 @@ body {
 	margin-bottom: 2px;
   margin-left: 0px;
   margin-right: 00px;
-  border: 20px solid red;
+  border: 1px solid red;
   font-weight: bold;
   width: 100%;
-  font-size: inherit;
-  font-family: inherit; /* Important for vertical align on mobile phones */
+  /* font-size: inherit; */
+  /* font-family: inherit; */ 
 }
 h1 {
   font-weight: bold;
@@ -80,8 +80,8 @@ table, th, td {
 .main {
   margin-top: 15px; /* Add a top margin to avoid content overlay */
   width: 100%;
-  font-size: inherit;
-  font-family: inherit; /* Important for vertical align on mobile phones */
+  /* font-size: inherit; */
+  /* font-family: inherit; */ 
 }
 
 .collapsible-item {
